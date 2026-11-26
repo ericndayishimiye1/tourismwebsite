@@ -1,0 +1,3 @@
+# Keep LF line endings on every OS (matches Prettier's default),
+# so `npm run format:check` passes on fresh Windows clones too.
+* text=auto eol=lf

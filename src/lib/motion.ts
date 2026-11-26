@@ -1,0 +1,2 @@
+/** Apple-like "ease out": fast start, long gentle settle. */
+export const easeOut: [number, number, number, number] = [0.22, 1, 0.36, 1]
