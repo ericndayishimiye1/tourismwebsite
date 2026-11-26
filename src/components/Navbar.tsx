@@ -60,7 +60,7 @@ export default function Navbar() {
         <a
           href="#home"
           onClick={close}
-          className={`text-xl font-semibold tracking-tight transition-colors ${solid ? 'text-ink' : 'text-white'}`}
+          className={`text-2xl font-semibold tracking-tight transition-colors sm:text-3xl ${solid ? 'text-ink' : 'text-white'}`}
         >
           {site.name}
           <span className={`transition-colors ${solid ? 'text-accent' : 'text-white'}`}>.</span>
