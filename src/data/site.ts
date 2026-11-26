@@ -2,7 +2,7 @@ import type { NavLink } from '../types.ts'
 
 /** Brand details: rename the site here. */
 export const site = {
-  name: 'Roam',
+  name: 'RUGAJU',
   email: 'hello@example.com',
 }
 

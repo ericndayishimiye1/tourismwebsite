@@ -1,4 +1,4 @@
-# Roam · Tourism landing page
+# RUGAJU · Tourism landing page
 
 A minimal, Apple-inspired landing page for a travel and tourism website. It is fully
 responsive, from small phones to large desktop screens.
